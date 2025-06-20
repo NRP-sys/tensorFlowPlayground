@@ -1,2 +1,3 @@
 /.venv
 /get-pip.py
+/imdb_sentiment_model.keras
